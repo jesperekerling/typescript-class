@@ -1,2 +1,3 @@
-const fullName: string = 'jesper';
-console.log(fullName + "hejsan" + "13")
+
+
+import './importtest.js';
