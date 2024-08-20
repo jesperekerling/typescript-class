@@ -1,2 +1,3 @@
 //import './importtest.js';
-import './exercises.js';
+//import './explicit-typing.js';
+import './functions.js';
