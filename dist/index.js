@@ -1,2 +1,3 @@
-var fullName = 'jesper';
-console.log(fullName);
+"use strict";
+const fullName = 'jesper';
+console.log(fullName + "hejsan" + "13");

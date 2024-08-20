@@ -1,2 +1,2 @@
 const fullName: string = 'jesper';
-console.log(fullName + "hej")
+console.log(fullName + "hejsan" + "13")
