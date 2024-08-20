@@ -10,6 +10,6 @@
       "forceConsistentCasingInFileNames": true,
       "skipLibCheck": true
   },
-  "include": ["src/**/*.ts", "src/importtest.js"],
+  "include": ["src/**/*.ts", "src/importtest.js", "src/exercises.js"],
   "exclude": ["node_modules"]
 }
