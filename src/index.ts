@@ -8,4 +8,6 @@
 
 //import './excercise.js'
 
-import './homework.js'
+// import './homework.js'
+
+import './repetition.js'
